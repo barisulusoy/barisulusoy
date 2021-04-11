@@ -26,8 +26,8 @@
 
 ---
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisulusoy&layout=compact&hide=html" alt="barisulusoy" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisulusoy&layout=compact&hide=html" alt="barisulusoy" /></p>
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barisulusoy&show_icons=true" alt="barisulusoy" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barisulusoy&show_icons=true" alt="barisulusoy" /></p>
