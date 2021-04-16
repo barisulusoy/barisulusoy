@@ -33,7 +33,7 @@
 <img align="left" alt="OpenCV" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/opencv.svg" />
 <img align="left" alt="Tensorflow" width="26px" src="https://unpkg.com/simple-icons@v4/icons/tensorflow.svg" />
 <img align="left" alt="Keras" width="26px" src="https://unpkg.com/simple-icons@v4/icons/keras.svg" />
-<img align="left" alt="Qt" width="26px" src="https://unpkg.com/simple-icons@v4/icons/qt.svg" /></p>
+<img align="left" alt="Qt" width="26px" src="https://unpkg.com/simple-icons@v4/icons/qt.svg" /></p>.
 
 ---
 
