@@ -29,11 +29,11 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
-[<img align="left" alt="Cplusplus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />][webdevplaylist]
-[<img align="left" alt="OpenCV" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/opencv.svg" />][cssplaylist]
-[<img align="left" alt="Tensorflow" width="26px" src="https://unpkg.com/simple-icons@v4/icons/tensorflow.svg" />][cssplaylist]
-[<img align="left" alt="Keras" width="26px" src="https://unpkg.com/simple-icons@v4/icons/keras.svg" />][jsplaylist]
-[<img align="left" alt="Qt" width="26px" src="https://unpkg.com/simple-icons@v4/icons/qt.svg" />][reactplaylist]
+[<img align="left" alt="Cplusplus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />]
+[<img align="left" alt="OpenCV" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/opencv.svg" />]
+[<img align="left" alt="Tensorflow" width="26px" src="https://unpkg.com/simple-icons@v4/icons/tensorflow.svg" />]
+[<img align="left" alt="Keras" width="26px" src="https://unpkg.com/simple-icons@v4/icons/keras.svg" />]
+[<img align="left" alt="Qt" width="26px" src="https://unpkg.com/simple-icons@v4/icons/qt.svg" />]
 
 ---
 
