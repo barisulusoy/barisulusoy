@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on **Image Processing Algorithms**.
 - 🌱 I’m currently **OpenCV, Keras, Tensorflow, ROS** 🤣.
-- 📝 I regularly write blogs on [http://www.alternatifmuhendis.com/](http://www.alternatifmuhendis.com/)
+- 📝 I regularly write blogs on [http://www.alternatifmuhendis.com/](http://www.alternatifmuhendis.com/) and [https://blog.t3otomasyon.com/](https://blog.t3otomasyon.com/)
 - 🥅 2021 Goals: To develop more computer vision projects.
 - ⚡ Fun fact: I love reading books and watching movies.
 - 💬 Ask me about **OpenCV, Tensorflow, Keras and ROS**
