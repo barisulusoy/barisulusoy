@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="center">Electrical & Electronics Engineer, Computer Vision Engineer and MSc Student</h2>
+<h2 align="center">Software Development Engineer, Computer Vision Engineer and MSc Student</h2>
 
 ---
 
