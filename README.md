@@ -7,13 +7,14 @@
 ---
 
 
-- 🔭 I'm currently working on **Image Processing Algorithms**.
-- 🌱 I’m currently **OpenCV, Keras, Tensorflow, ROS** 🤣.
-- 📝 I regularly write blogs on [http://www.alternatifmuhendis.com/](http://www.alternatifmuhendis.com/) and [https://blog.t3otomasyon.com/](https://blog.t3otomasyon.com/)
-- 🥅 2021 Goals: To develop more computer vision projects.
+- 🔭 I am a **Computer Vision Engineer** working in a private company in Istanbul, who is passionate about working, constantly striving to improve himself. 
+- 🌱 I’m currently using **Halcon, OpenCV, Keras and Tensorflow** 🤣.
+- I develop my projects mainly using **Python and C#** programming languages.
+- 📝 I regularly write blogs on [http://www.alternatifmuhendis.com/](http://www.alternatifmuhendis.com/). 
+- 🥅 2022 Goals: To develop more computer vision projects.
 - ⚡ Fun fact: I love reading books and watching movies.
-- 💬 Ask me about **OpenCV, Tensorflow, Keras and ROS**
-- 📫 How to reach me **baris.ulusy@gmail.com**
+- 💬 Ask me about **Halcon, OpenCV, Tensorflow and Keras**.
+- 📫 How to reach me **baris.ulusy@gmail.com**.
 
 ---
 
@@ -28,12 +29,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Cplusplus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />
-<img align="left" alt="OpenCV" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/opencv.svg" />
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Halcon_logo_and_slogan.png/1200px-Halcon_logo_and_slogan.png?20160824095353"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <img align="left" alt="Tensorflow" width="26px" src="https://unpkg.com/simple-icons@v4/icons/tensorflow.svg" />
 <img align="left" alt="Keras" width="26px" src="https://unpkg.com/simple-icons@v4/icons/keras.svg" />
-<img align="left" alt="Qt" width="26px" src="https://unpkg.com/simple-icons@v4/icons/qt.svg" /></p>.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 ---
 
