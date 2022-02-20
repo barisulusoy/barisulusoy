@@ -6,8 +6,8 @@
 
 ---
 
-
-- 🔭 I am a **Computer Vision Engineer** working in a private company in Istanbul, who is passionate about working, constantly striving to improve himself. 
+- 🔭 I am a **Computer Vision Engineer** working in a private company in Istanbul,
+   who is passionate about working, constantly striving to improve himself. 
 - 🌱 I’m currently using **Halcon, OpenCV, Keras and Tensorflow** 🤣.
 - I develop my projects mainly using **Python and C#** programming languages.
 - 📝 I regularly write blogs on [http://www.alternatifmuhendis.com/](http://www.alternatifmuhendis.com/). 
@@ -16,7 +16,7 @@
 - 💬 Ask me about **Halcon, OpenCV, Tensorflow and Keras**.
 - 📫 How to reach me **baris.ulusy@gmail.com**.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ---
 
