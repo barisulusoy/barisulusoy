@@ -6,7 +6,7 @@
 
 ---
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I am a **Computer Vision Engineer** working in a private company in Istanbul,
    who is passionate about working, constantly striving to improve himself. 
@@ -17,8 +17,6 @@
 - ⚡ Fun fact: I love reading books and watching movies.
 - 💬 Ask me about **Halcon, OpenCV, Tensorflow and Keras**.
 - 📫 How to reach me **baris.ulusy@gmail.com**.
-
-
 
 ---
 
@@ -48,4 +46,10 @@
 
 ---
 
-
+  ### Categories:
+  
+  - [What is the image?](https://github.com/barisulusoy/camera-calibration)
+  - [What is the camera?](https://github.com/barisulusoy/camera-calibration)
+  - [Initialize Image Processing](https://github.com/barisulusoy/camera-calibration)
+  - [Camera Calibration](https://github.com/barisulusoy/camera-calibration)
+  - [Lettuce Detection With Yolov4](https://github.com/barisulusoy/camera-calibration)
