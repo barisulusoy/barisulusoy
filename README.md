@@ -40,6 +40,14 @@
 
 ---
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+---
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=barisulusoy&show_icons=true&theme=gotham" alt="barisulusoy" />
+
+---
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisulusoy&layout=compact&hide=html" alt="barisulusoy" /></p>
 
 ---
