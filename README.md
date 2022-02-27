@@ -59,6 +59,7 @@
    
 - [What is the image?](https://github.com/barisulusoy/camera-calibration)
 - [Initialize Image Processing](https://github.com/barisulusoy/camera-calibration)
+- [Measuring the Distance Between Capacitor Legs in Pixels](https://github.com/barisulusoy/measuring-the-distance-between-capacitor-legs)
    
 </details>  
 
@@ -66,7 +67,7 @@
 <summary><b>&nbsp;&nbsp;Deep Learning</b></summary>
 <br/>
    
-- [Lettuce Detection With Yolov4](https://github.com/barisulusoy/camera-calibration)
+- [Lettuce Detection With Yolov4](https://github.com/barisulusoy/LettuceDetection)
    
 </details>  
 
