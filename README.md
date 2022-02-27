@@ -51,19 +51,25 @@
 <details>
 <summary><b>👨‍&nbsp;&nbsp;Camera</b></summary>
 <br/>
+   
 - [What is the camera?](https://github.com/barisulusoy/camera-calibration)
 - [Camera Calibration](https://github.com/barisulusoy/camera-calibration)
+   
 </details>  
 
 <details>
 <summary><b>👨‍&nbsp;&nbsp;Image Processing</b></summary>
 <br/>
+   
 - [What is the image?](https://github.com/barisulusoy/camera-calibration)
 - [Initialize Image Processing](https://github.com/barisulusoy/camera-calibration)
+   
 </details>  
 
 <details>
 <summary><b>👨‍&nbsp;&nbsp;Deep Learning</b></summary>
 <br/>
+   
 - [Lettuce Detection With Yolov4](https://github.com/barisulusoy/camera-calibration)
+   
 </details>  
